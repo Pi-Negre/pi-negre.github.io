@@ -1,0 +1,14 @@
+---
+title: Direttiva Europea
+subtitle: Board Game
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: May 2025
+category: Board Games
+description: Board game to celebrate Europe Day, May 9th. Based on the dynamics of [Bang!](https://bang.dvgiochi.com/)
+
+---
