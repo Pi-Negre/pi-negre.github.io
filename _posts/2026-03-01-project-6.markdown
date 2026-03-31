@@ -3,7 +3,7 @@ title: Poli & Simo's game
 subtitle: Board Game
 layout: default
 modal-id: 6
-date: 2026-06-01
+date: 2026-03-01
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
