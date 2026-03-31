@@ -1,0 +1,14 @@
+---
+title: Rope tarp
+subtitle: Mountain Gear
+layout: default
+modal-id: 4
+date: 2025-03-01
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: March 2025
+category: Gears
+description: Birthday gift for our friend William who was lacking one and using a plastic bag instead.
+
+---
