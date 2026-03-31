@@ -1,0 +1,14 @@
+---
+title: Poli & Simo's game
+subtitle: Board Game
+layout: default
+modal-id: 6
+date: 2026-06-01
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: June 2026
+category: Board Games
+description: Our friends are ggetting married!
+
+---
