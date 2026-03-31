@@ -9,6 +9,7 @@ thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: July 2025
 category: Gears
+categories: [Gears]
 description: Gift for our friend Roger leaving us to go climb in Japan.
 
 ---
