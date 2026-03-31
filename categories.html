@@ -5,7 +5,7 @@ title: Categories
 
 <h1>Categories</h1>
 
-{% assign sorted_categories = site.category | sort %}
+{% assign sorted_categories = site.categories | sort %}
 
 {% for category in sorted_categories %}
   <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
