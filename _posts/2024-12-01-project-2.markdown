@@ -1,0 +1,14 @@
+---
+title: Il Gioco delle (Dis)avventure
+subtitle: Board Game
+layout: default
+modal-id: 2
+date: 2024-12-01
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: December 2024
+category: Board Games
+description: A Diseekers production - always seeking _disagio_ since 2018.
+
+---
