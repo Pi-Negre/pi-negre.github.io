@@ -4,8 +4,8 @@ subtitle: Mountain Gear
 layout: default
 modal-id: 5
 date: 2025-07-01
-img: chalk.jpg
-thumbnail: chalk-thumbnail.jpg
+img: chalkbag.jpg
+thumbnail: chalkbag-thumbnail.jpg
 alt: image-alt
 project-date: July 2025
 category: Gears
