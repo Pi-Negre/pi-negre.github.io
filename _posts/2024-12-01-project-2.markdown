@@ -9,6 +9,6 @@ thumbnail: disavventure-thumbnail.jpg
 alt: image-alt
 project-date: December 2024
 category: Board Games
-description: A Diseekers production - always seeking _disagio_ since 2018.
+description: A Diseekers production — always seeking _disagio_ since 2018.
 
 ---
