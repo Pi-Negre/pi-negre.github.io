@@ -4,8 +4,8 @@ subtitle: Board Game
 layout: default
 modal-id: 2
 date: 2024-12-01
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: disavventure.jpg
+thumbnail: disavventure-thumbnail.jpg
 alt: image-alt
 project-date: December 2024
 category: Board Games
