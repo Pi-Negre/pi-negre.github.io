@@ -4,8 +4,8 @@ subtitle: Board Game
 layout: default
 modal-id: 4
 date: 2025-05-01
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: direttiva.jpg
+thumbnail: direttiva-thumbnail.jpg
 alt: image-alt
 project-date: May 2025
 category: Board Games
