@@ -9,6 +9,6 @@ thumbnail: shmemories-thumbnail.jpg
 alt: image-alt
 project-date: December 2023
 category: Movies
-description: A touching story about friendship.
+description: A touching story about friendship. Watch the full movie (here)[https://drive.google.com/file/d/1EFLKV53bcmvnywpEbsg4OpGDI55rKqRR/view?usp=drive_link].
 
 ---
