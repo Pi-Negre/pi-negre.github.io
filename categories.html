@@ -3,26 +3,31 @@ layout: categories
 title: Categories
 ---
 
-<div class="row">
-  <div class="col-lg-12 text-center">
-    <h1 class="section-heading">Projects</h1>
-    <h3 class="section-subheading text-muted">Here you can find the full list of our projects, grouped by categories.</h3>
-  </div>
-</div>
+ <section id="categories">
+      <div class="container">
+          <div class="row">
+            <div class="col-lg-12 text-center">
+              <h1 class="section-heading">Projects</h1>
+              <h3 class="section-subheading text-muted">Here you can find the full list of our projects, grouped by categories.</h3>
+            </div>
+          </div>
 
-{% assign sorted_categories = site.categories | sort %}
+        {% assign sorted_categories = site.categories | sort %}
+        
+        {% for category in sorted_categories %}
+          <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
+        
+          <ul>
+            {% for post in category[1] %}
+              <li>
+                <a href="/#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                  {{ post.title }}
+                </a>
+                <small>({{ post.project-date }})</small>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endfor %}
 
-{% for category in sorted_categories %}
-  <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
-
-  <ul>
-    {% for post in category[1] %}
-      <li>
-        <a href="/#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-          {{ post.title }}
-        </a>
-        <small>({{ post.project-date }})</small>
-      </li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+      </div>
+ </section>
