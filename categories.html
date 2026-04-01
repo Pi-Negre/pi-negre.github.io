@@ -7,7 +7,7 @@ title: Categories
       <div class="container" style="margin-top: 100px;">>
           <div class="row">
             <div class="col-lg-12 text-center">
-              <h1 class="section-heading">Projects</h1>
+              <h2 class="section-heading">Projects</h2>
               <h3 class="section-subheading text-muted">Here you can find the full list of our projects, grouped by categories.</h3>
             </div>
           </div>
@@ -15,7 +15,7 @@ title: Categories
         {% assign sorted_categories = site.categories | sort %}
         
         {% for category in sorted_categories %}
-          <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
+          <h3 id="{{ category[0] }}">{{ category[0] }}</h3>
         
           <ul>
             {% for post in category[1] %}
