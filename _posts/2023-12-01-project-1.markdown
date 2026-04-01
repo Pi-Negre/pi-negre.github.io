@@ -4,8 +4,8 @@ subtitle: Movie
 layout: default
 modal-id: 1
 date: 2023-12-01
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: shmemories.jpg
+thumbnail: shmemories-thumbnail.jpg
 alt: image-alt
 project-date: December 2023
 category: Movies
