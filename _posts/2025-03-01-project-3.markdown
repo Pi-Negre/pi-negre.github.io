@@ -4,8 +4,8 @@ subtitle: Mountain Gear
 layout: default
 modal-id: 3
 date: 2025-03-01
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: tarp.jpg
+thumbnail: tarp-thumbnail.jpg
 alt: image-alt
 project-date: March 2025
 category: Gears
